@@ -1,15 +1,16 @@
-<h1 align="center">Hi 👋, I'm Chirag</h1>
-<h3 align="center">I'm in third year student at Silver Oak University pursuing a bachelor's degree in computer application</h3>
+<h1 align="left">Hi 👋, I'm Chirag</h1>
+<h3 align="left">I'm in third year student at Silver Oak University pursuing a bachelor's degree in computer application</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chiraglohar9&label=Profile%20views&color=0e75b6&style=flat" alt="chiraglohar9" /> </p>
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-- 🌱 I’m currently learning **Data Analysis,Python**
+ 🌱 I’m currently learning **Data Analysis,Python**
 
-- 💬 Ask me about **Python, Sql, Excel**
+ 💬 Ask me about **Python, Sql, Excel**
 
-- 📫 How to reach me **loharchirag916@gmail.com**
+ 📫 How to reach me **loharchirag916@gmail.com**
 
-- ⚡ Fun fact **I think I am Funny**
+ ⚡ Fun fact **I think I am Funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
