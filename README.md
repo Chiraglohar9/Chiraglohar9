@@ -16,7 +16,7 @@
 
 💬 Ask me about **Python, Javascript, Excel or anything [here](https://github.com/ChiragLohar9/ChiragLohar9/issues)**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Fun fact **As Computers Run, They get Hot. Computers have Fans to Keep them Cool.**
 
  </div>
  
